@@ -1,7 +1,7 @@
 README of BattleNet-Framework
 =============================
 
-* &copy; Antoine Pous, contact@toine.pro, 2013
+* &copy; Antoine (Toine) Pous, contact@toine.pro, 2013
 * This application is licenced under [GNU General Public License, Version 3.0]
 * This application is not affiliated to [Blizzard Entertainment]
 
